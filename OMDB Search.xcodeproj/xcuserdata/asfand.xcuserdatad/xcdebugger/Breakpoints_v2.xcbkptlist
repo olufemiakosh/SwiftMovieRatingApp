@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E00F797B-2E8F-40E3-B9F8-D95A55865AEB"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "69C59E84-F5B0-4520-9E96-ABAF4EFCE4C4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OMDB Search/MovieDetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4FC9696B-876B-479A-B28A-1254423C5BC4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OMDB Search/MovieDetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "fetchMovieDetails(completionHandler:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4FC9696B-876B-479A-B28A-1254423C5BC4 - 67461761f5af3037"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OMDB_Search.MovieDetailViewController.fetchMovieDetails(completionHandler: (OMDB_Search.ImdbMovieResult) -&gt; ()) -&gt; ()"
+                  moduleName = "OMDB Search"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/asfand/WORK/iOS%20Apps/OMDB%20Search/OMDB%20Search/MovieDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "1180">
+               </Location>
+               <Location
+                  uuid = "4FC9696B-876B-479A-B28A-1254423C5BC4 - 8f77fe157a0c7b7e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in OMDB_Search.MovieDetailViewController.fetchMovieDetails(completionHandler: (OMDB_Search.ImdbMovieResult) -&gt; ()) -&gt; ()"
+                  moduleName = "OMDB Search"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/asfand/WORK/iOS%20Apps/OMDB%20Search/OMDB%20Search/MovieDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "176">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
